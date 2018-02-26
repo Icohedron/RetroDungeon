@@ -1,0 +1,8 @@
+Levels can be any size.
+PNG format only.
+Keep all alpha values at 255 except for empty spaces.
+Black (0x000000 or rgb(0, 0, 0)) is a wall.
+Red (0xFF0000 or rgb(255, 0, 0)) is the player's position.
+Cyan (0x00FFFF or rgb(0, 255, 255)) is the player's direction (which way the player is looking). This must be placed adjacent to red. If not provided, the default rotation is north.
+Green (0x00FF00 or rgb(0, 255, 0)) is the door.
+Yellow (0xFFFF00 or rgb(255, 255, 0)) is the key.

@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'io.github.icohedron.retrodungeon.RetroDungeon'
+    }
+}
+
+mainClassName = 'io.github.icohedron.retrodungeon.RetroDungeon'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'com.google.guava:guava:22.0'
+    testCompile 'junit:junit:4.12'
+}

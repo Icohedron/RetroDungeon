@@ -1,0 +1,2 @@
+This bitmap (font.png) is from Markus (Notch) Persson's Prelude of the Chambered  
+The original file can be found [here](https://github.com/skeeto/Prelude-of-the-Chambered/blob/master/res/tex/font.png)

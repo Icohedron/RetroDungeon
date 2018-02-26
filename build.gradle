@@ -11,6 +11,11 @@ jar {
 
 mainClassName = 'io.github.icohedron.retrodungeon.RetroDungeon'
 
+group = 'io.github.icohedron.retrodungeon'
+
+description = 'A simple 3D maze game'
+version = '1.0.0'
+
 repositories {
     jcenter()
 }

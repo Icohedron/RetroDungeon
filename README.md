@@ -7,7 +7,7 @@ You can also create your own levels! See RetroDungeon Distributable for instruct
 
 # Build Instructions
 ```
-gradlew jar
+./gradlew jar
 ```
 The resulting jar file is located in build/lib
 
